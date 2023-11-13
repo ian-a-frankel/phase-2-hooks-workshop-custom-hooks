@@ -10,6 +10,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@heroicons/vue": "^2.0.18",
     "@ihollander/workshop-app": "^0.0.9",
     "codegen.macro": "^4.1.0",
     "react": "^17.0.1",
